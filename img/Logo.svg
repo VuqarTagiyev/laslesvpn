@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="149" height="36.232" viewBox="0 0 149 36.232">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="149" height="36.232" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" transform="translate(-150 -50)">
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(150 50)" clip-path="url(#clip-path)">
+      <g transform="translate(-150 -50)">
+        <text id="LaslesVPN" transform="translate(195 56.116)" fill="#0b132a" font-size="20" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="0" y="19">Lasles</tspan><tspan y="19" font-family="Rubik-Bold, Rubik" font-weight="700">VPN</tspan></text>
+        <g id="Standard_Collection_27" data-name="Standard Collection 27">
+          <path id="Vector" d="M31.147,13.648l-.022-.022,0,0L17.5,0,3.88,13.621l0,0-.022.022a13.245,13.245,0,0,0,13.283,22,1.247,1.247,0,0,1,.729,0,13.245,13.245,0,0,0,13.282-22ZM8.723,22.63a.714.714,0,0,0-.209.5,13.219,13.219,0,0,0,1.965,6.8.259.259,0,0,1-.318.375A7.949,7.949,0,0,1,7.618,17.374L17.5,7.493l9.882,9.882A7.95,7.95,0,0,1,24.84,30.312a.259.259,0,0,1-.318-.375,13.22,13.22,0,0,0,1.966-6.8.714.714,0,0,0-.21-.5L21.6,17.672a.259.259,0,0,0-.391.326c1.815,3.285.254,8-2.349,10.608l-.014.014a1.918,1.918,0,0,1-2.7,0l-.013-.013C13.534,26,11.974,21.284,13.789,18a.259.259,0,0,0-.391-.326Z" transform="translate(150 50)" fill="#f53838"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

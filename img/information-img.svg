@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="482.675" height="414.715" viewBox="0 0 482.675 414.715">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.472" x2="0.404" y2="0.749" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffefe0"/>
+      <stop offset="1" stop-color="#ffbe99"/>
+    </linearGradient>
+    <filter id="Rectangle_316" x="68.803" y="17.215" width="228.25" height="250.046" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="34" result="blur"/>
+      <feFlood flood-color="#0a111b" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_316-2" x="146.696" y="60.316" width="228.25" height="250.046" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="34" result="blur-2"/>
+      <feFlood flood-color="#0a111b" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.407" x2="0.42" y2="0.954" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.538" x2="0.49" y2="1.188" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9f81"/>
+      <stop offset="1" stop-color="#f53838"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.963" x2="0.152" y2="0.131" gradientUnits="objectBoundingBox">
+      <stop offset="0.068" stop-color="#ffefe0"/>
+      <stop offset="1" stop-color="#ffbe99"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.472" x2="0.52" y2="0.561" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path">
+      <path id="Vector_81" data-name="Vector 81" d="M3.631,0,0,36.149c1.014,4.257,6.682,12.894,22.495,12.894,12.407,0,19.129-8.564,20.548-12.821L38.976,0Z" transform="translate(401.429 1172.239)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-6" x1="0.385" y1="0.09" x2="0" y2="0.907" xlink:href="#linear-gradient"/>
+    <filter id="Vector_80" x="59.593" y="9.685" width="309.83" height="261.955" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="34" result="blur-3"/>
+      <feFlood flood-color="#0a111b" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_315" x="162.434" y="73.939" width="213.06" height="225.646" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="34" result="blur-4"/>
+      <feFlood flood-color="#0a111b" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_312" x="146.696" y="60.316" width="228.25" height="250.046" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="34" result="blur-5"/>
+      <feFlood flood-color="#0a111b" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_314" x="57.192" y="53.249" width="213.06" height="225.646" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="34" result="blur-6"/>
+      <feFlood flood-color="#0a111b" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_313" x="68.803" y="17.215" width="228.25" height="250.046" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="34" result="blur-7"/>
+      <feFlood flood-color="#0a111b" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_316)">
+        <rect id="Rectangle_316-3" data-name="Rectangle 316" width="16.867" height="43.773" rx="8.433" transform="translate(388.41 1075.59) rotate(10.05)" fill="#fff"/>
+      </g>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_316-2)">
+        <rect id="Rectangle_316-4" data-name="Rectangle 316" width="16.867" height="43.773" rx="8.433" transform="translate(466.31 1118.69) rotate(10.05)" fill="#fff"/>
+      </g>
+    </clipPath>
+    <linearGradient id="linear-gradient-7" x1="0.706" x2="0.425" y2="1.269" gradientUnits="objectBoundingBox">
+      <stop offset="0.017" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d7d7d7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.467" y1="0.106" x2="0.467" y2="1.045" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe89e"/>
+      <stop offset="1" stop-color="#ffbf1a"/>
+    </linearGradient>
+  </defs>
+  <g id="information-img" transform="translate(-209.967 -960.377)">
+    <path id="Vector_92" data-name="Vector 92" d="M31.2,61.134,70.923,84.452l73.549-57.2c-4.04-6.923-7.647-16.583,3.238-17.343,9.06,0-10.526,17.7,26.454,0,38.788-18.569,28.712-9.5-2.286,14.4-9.105,7.019-74.729,99.223-107.2,106.155-15.824,3.378-46.446-7.684-64.674-22.9Z" transform="translate(493.249 1169.584)" fill="url(#linear-gradient-2)"/>
+    <path id="Vector_52" data-name="Vector 52" d="M127.269,0C107.822,6.036,63.54,20.054,52.333,27.837,38.324,37.565,32.777,46.356,0,103.05l26.176,20.058,30.989-3.32,6.89,63.648,150.486.116c-.576-12.964,2.912-54.781,6.957-80.5l25.116-8.295,12.45-43.12c-21.655-13.79-44.867-30.327-57.658-35.512s-40.6-10.665-53.561-13.879Z" transform="translate(286.457 1190.874)" fill="url(#linear-gradient-3)"/>
+    <path id="Vector_91" data-name="Vector 91" d="M17.726,0C9.272,15.96-21.739,64.284,25.942,70.33c59.293,7.518,113.223,5.734,120.481,6.969L136.232,49.028,63.593,32.022,70.321,16.5,33.436,13.224Z" transform="translate(269.797 1294.636)" fill="url(#linear-gradient-4)"/>
+    <path id="Vector_79" data-name="Vector 79" d="M0,5.624c2.347-4.244,9.077-10.185,17.224,0Z" transform="translate(418.798 1058.377)" fill="#30235b"/>
+    <ellipse id="Ellipse_188" data-name="Ellipse 188" cx="25.972" cy="18.508" rx="25.972" ry="18.508" transform="translate(396.737 1190.874)" fill="#cf0606"/>
+    <path id="Vector_83" data-name="Vector 83" d="M3.631,0,0,36.149c1.014,4.257,6.7,12.893,22.51,12.893,12.407,0,19.106-8.636,20.526-12.893L38.976,0Z" transform="translate(401.429 1172.239)" fill="url(#linear-gradient-5)"/>
+    <g id="Mask_Group" data-name="Mask Group">
+      <g id="Vector_81-2" data-name="Vector 81" clip-path="url(#clip-path)">
+        <path id="Vector_82" data-name="Vector 82" d="M0,31.251c9.225,4.769,27.084,36.563,59.043-2.979L44.181,0,6.339,4.518Z" transform="translate(394.099 1145.351)" opacity="0.1"/>
+      </g>
+    </g>
+    <path id="Vector_77" data-name="Vector 77" d="M5.3,17.883C-6.479,42.909.076,97.623,38.193,97.623c46.683,0,43.166-58.885,39.976-79.741C64.92,4.388,31.8-14.5,5.3,17.883Z" transform="translate(383.904 1089.127)" fill="url(#linear-gradient-6)"/>
+    <path id="Vector_89" data-name="Vector 89" d="M0,4.255,8.681,7.523,9.736,3.1,0,0Z" transform="translate(456.411 1135.296) rotate(15.751)" fill="#111"/>
+    <path id="Vector_90" data-name="Vector 90" d="M0-4.255,8.681-7.523,9.736-3.1,0,0Z" transform="translate(391.232 1133.701) rotate(15.751)" fill="#111"/>
+    <path id="Vector_78" data-name="Vector 78" d="M84,48.271c-11.6,7.336-41.559,17.606-68.583,0-.165,5.064,0,14.914-7.232,28.954C1.829,70.7-6.017,53.181,7.17,35.259,6.184,26.1,12.942,1.4,47.772.046s45.2,27.182,46.049,38.594c5.072,3.32,10.821,15.685-6.763,38.584C85.022,70.783,81.562,55.975,84,48.271Z" transform="translate(376.331 1062.028)" fill="#30235b"/>
+    <g transform="matrix(1, 0, 0, 1, 209.97, 960.38)" filter="url(#Vector_80)">
+      <path id="Vector_80-2" data-name="Vector 80" d="M4.651,54.426c.517-14.912,8.316-44.21,50.66-42.793,36.675,1.063,46.6,30.819,46.38,46.322h3.853C107.537,39.2,99.959,2.6,55.311.117S1.107,35.232,0,54.426Z" transform="translate(161.59 107.68)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 209.97, 960.38)" filter="url(#Rectangle_315)">
+      <rect id="Rectangle_315-2" data-name="Rectangle 315" width="5.476" height="21.013" rx="2.738" transform="translate(268.1 171.94) rotate(10.05)" fill="#24c28a"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 209.97, 960.38)" filter="url(#Rectangle_312)">
+      <rect id="Rectangle_312-2" data-name="Rectangle 312" width="16.867" height="43.773" rx="8.433" transform="translate(256.34 158.32) rotate(10.05)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 209.97, 960.38)" filter="url(#Rectangle_314)">
+      <rect id="Rectangle_314-2" data-name="Rectangle 314" width="5.476" height="21.013" rx="2.738" transform="translate(162.86 151.25) rotate(10.05)" fill="#24c28a"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 209.97, 960.38)" filter="url(#Rectangle_313)">
+      <rect id="Rectangle_313-2" data-name="Rectangle 313" width="16.867" height="43.773" rx="8.433" transform="translate(178.44 115.22) rotate(10.05)" fill="#fff"/>
+    </g>
+    <g id="Mask_Group-2" data-name="Mask Group">
+      <g id="Rectangle_316-5" data-name="Rectangle 316" clip-path="url(#clip-path-2)">
+        <rect id="Rectangle_317" data-name="Rectangle 317" width="21.94" height="47.517" transform="translate(372.828 1118.693) rotate(-10.098)" fill="#e8e8e8"/>
+      </g>
+    </g>
+    <g id="Mask_Group-3" data-name="Mask Group">
+      <g id="Rectangle_316-6" data-name="Rectangle 316" clip-path="url(#clip-path-3)">
+        <rect id="Rectangle_317-2" data-name="Rectangle 317" width="21.94" height="47.517" transform="translate(466.94 1165.474) rotate(-169.902)" fill="#e8e8e8"/>
+      </g>
+    </g>
+    <path id="Vector_87" data-name="Vector 87" d="M.774,12.509a9.553,9.553,0,0,0,8.8,6.147c9.212,0,13.146-8.695,9.212-14.595S3.622-.674,1.232,3.5A10.759,10.759,0,0,0,.774,12.509Z" transform="translate(396.1 1132.628)" fill="#e5fcff" opacity="0.5"/>
+    <path id="Vector_88" data-name="Vector 88" d="M.774-12.509a9.553,9.553,0,0,1,8.8-6.147c9.212,0,13.146,8.695,9.212,14.595S3.622.674,1.232-3.5A10.759,10.759,0,0,1,.774-12.509Z" transform="translate(450.975 1132.628) rotate(180)" fill="#e5fcff" opacity="0.5"/>
+    <path id="Subtract" d="M405.459,1153.032h0a11.421,11.421,0,0,1-8.72-3.591,11.129,11.129,0,0,1-2.422-4.673,18.726,18.726,0,0,1-.331-6.836h-3.122l-.04-4.476,3.954-.008c.438-.164.924-.364,1.439-.576l.008,0a24.972,24.972,0,0,1,9.609-2.368,15.845,15.845,0,0,1,5.671,1.05,20.538,20.538,0,0,1,6.165,3.837,18.957,18.957,0,0,1,5.626-.741,25.217,25.217,0,0,1,5.656.641,11.845,11.845,0,0,1,5.151-3.528,20.028,20.028,0,0,1,7-1.212c5.016,0,9.52,1.649,12.357,4.523l3.494-.031.045,5.031-3.494.031c-.106,4.461-2.822,12.9-12.331,12.9h-.019c-4.965-.006-8.7-1.855-11.1-5.495a17.451,17.451,0,0,1-2.513-7.041l-.02-.135c-.146-.966-2.305-1.879-4.443-1.879-1.105,0-3.074.254-3.841,1.952a15.624,15.624,0,0,1-2.129,6.586,12.228,12.228,0,0,1-7.076,5.349A15.638,15.638,0,0,1,405.459,1153.032Zm35.766-20.4c-4.019,0-7.311,1.48-9.033,4.062a9.07,9.07,0,0,0-.424,9.327c1.792,3.348,5.3,5.269,9.637,5.269a10.016,10.016,0,0,0,9.571-10.015,10.186,10.186,0,0,0-1.232-5.139C448.564,1134.068,445.061,1132.627,441.224,1132.627Zm-35.372,0h0c-3.837,0-7.34,1.44-8.52,3.5a10.187,10.187,0,0,0-1.232,5.14,10.016,10.016,0,0,0,9.571,10.015c4.332,0,7.845-1.92,9.637-5.269a9.07,9.07,0,0,0-.424-9.327c-1.721-2.581-5.012-4.061-9.031-4.061Z" fill="#111"/>
+    <g id="Group_1272" data-name="Group 1272">
+      <path id="Rectangle_319" data-name="Rectangle 319" d="M0,0H157.155V7.032H0Z" transform="translate(347.324 1368.06)" fill="#b4b4b4"/>
+      <rect id="Rectangle_318" data-name="Rectangle 318" width="157.155" height="105.147" rx="2.947" transform="translate(347.324 1265.524)" fill="url(#linear-gradient-7)"/>
+      <circle id="Ellipse_192" data-name="Ellipse 192" cx="11.176" cy="11.176" r="11.176" transform="translate(414.725 1306.921)" fill="#fff"/>
+    </g>
+    <g id="Group_1276" data-name="Group 1276">
+      <path id="Union" d="M314.211,1133.614a26.859,26.859,0,0,1-7.844-1.472,19.936,19.936,0,0,1,7.871-1.889,30.019,30.019,0,0,1,1.446-7.848,26.66,26.66,0,0,1,1.849,7.888,26.659,26.659,0,0,1,7.888,1.849,30.042,30.042,0,0,1-7.848,1.445,19.945,19.945,0,0,1-1.888,7.871A26.863,26.863,0,0,1,314.211,1133.614Z" fill="url(#linear-gradient-8)"/>
+      <path id="Union-2" data-name="Union" d="M287.332,1110.063a17.885,17.885,0,0,1-5.221-.98,13.272,13.272,0,0,1,5.239-1.257,20.02,20.02,0,0,1,.962-5.224,17.749,17.749,0,0,1,1.231,5.251,17.755,17.755,0,0,1,5.251,1.23,20,20,0,0,1-5.224.962,13.258,13.258,0,0,1-1.257,5.239A17.879,17.879,0,0,1,287.332,1110.063Z" fill="url(#linear-gradient-8)"/>
+      <path id="Union-3" data-name="Union" d="M244,1095.209a26.863,26.863,0,0,1-7.844-1.472,19.936,19.936,0,0,1,7.871-1.889,30.024,30.024,0,0,1,1.446-7.848,26.66,26.66,0,0,1,1.848,7.888,26.659,26.659,0,0,1,7.888,1.849,30.047,30.047,0,0,1-7.848,1.445,19.937,19.937,0,0,1-1.888,7.871A26.863,26.863,0,0,1,244,1095.209Z" fill="url(#linear-gradient-8)"/>
+      <path id="Union-4" data-name="Union" d="M247.7,1175.134a39.524,39.524,0,0,1-11.54-2.166,29.327,29.327,0,0,1,11.58-2.779,44.2,44.2,0,0,1,2.126-11.547,39.22,39.22,0,0,1,2.72,11.606,39.225,39.225,0,0,1,11.605,2.72,44.2,44.2,0,0,1-11.546,2.127,29.314,29.314,0,0,1-2.779,11.58A39.53,39.53,0,0,1,247.7,1175.134Z" fill="url(#linear-gradient-8)"/>
+      <circle id="Ellipse_199" data-name="Ellipse 199" cx="1.841" cy="1.841" r="1.841" transform="translate(276.364 1138.693)" fill="#2f235a"/>
+      <circle id="Ellipse_200" data-name="Ellipse 200" cx="1.841" cy="1.841" r="1.841" transform="translate(318.622 1085.895)" fill="#fe9076"/>
+      <circle id="Ellipse_201" data-name="Ellipse 201" cx="1.841" cy="1.841" r="1.841" transform="translate(226.002 1131.382)" fill="#ffa400"/>
+      <circle id="Ellipse_202" data-name="Ellipse 202" cx="1.841" cy="1.841" r="1.841" transform="translate(308.528 1167.093)" fill="#23bb86"/>
+      <path id="Vector_95" data-name="Vector 95" d="M0-21.04C4.163-15.322,15.89-3.109,29.494,0" transform="translate(315.951 1059.011) rotate(180)" fill="none" stroke="#fe9076" stroke-linecap="round" stroke-width="1.603"/>
+      <path id="Vector_96" data-name="Vector 96" d="M0-21.04C4.163-15.322,15.89-3.109,29.494,0" transform="translate(211.383 1109.127) rotate(24.397)" fill="none" stroke="#ffa400" stroke-linecap="round" stroke-width="1.603"/>
+      <path id="Vector_97" data-name="Vector 97" d="M0,0A83.371,83.371,0,0,0,15.858-20.031" transform="translate(304.05 1174.283) rotate(180)" fill="none" stroke="#23bb86" stroke-linecap="round" stroke-width="1.603"/>
+    </g>
+    <g id="Group_1296" data-name="Group 1296">
+      <path id="Union-5" data-name="Union" d="M528.254,1133.587a30.051,30.051,0,0,1-7.848-1.445,26.664,26.664,0,0,1,7.888-1.849,26.662,26.662,0,0,1,1.849-7.888,30.048,30.048,0,0,1,1.445,7.848,19.938,19.938,0,0,1,7.871,1.889,26.86,26.86,0,0,1-7.844,1.472,26.861,26.861,0,0,1-1.473,7.844A19.933,19.933,0,0,1,528.254,1133.587Z" fill="url(#linear-gradient-8)"/>
+      <path id="Union-6" data-name="Union" d="M556.256,1110.045a20,20,0,0,1-5.224-.962,17.749,17.749,0,0,1,5.251-1.23,17.752,17.752,0,0,1,1.23-5.251,20,20,0,0,1,.962,5.224,13.273,13.273,0,0,1,5.239,1.257,17.888,17.888,0,0,1-5.221.98,17.873,17.873,0,0,1-.98,5.221A13.269,13.269,0,0,1,556.256,1110.045Z" fill="url(#linear-gradient-8)"/>
+      <path id="Union-7" data-name="Union" d="M598.464,1095.182a30.06,30.06,0,0,1-7.848-1.445,26.664,26.664,0,0,1,7.888-1.849,26.663,26.663,0,0,1,1.849-7.888,30.049,30.049,0,0,1,1.446,7.848,19.938,19.938,0,0,1,7.871,1.889,26.865,26.865,0,0,1-7.844,1.472,26.86,26.86,0,0,1-1.473,7.844A19.926,19.926,0,0,1,598.464,1095.182Z" fill="url(#linear-gradient-8)"/>
+      <path id="Union-8" data-name="Union" d="M593.184,1175.094a44.2,44.2,0,0,1-11.547-2.127,39.228,39.228,0,0,1,11.606-2.72,39.229,39.229,0,0,1,2.72-11.606,44.2,44.2,0,0,1,2.127,11.547,29.33,29.33,0,0,1,11.58,2.779,39.515,39.515,0,0,1-11.541,2.166,39.518,39.518,0,0,1-2.166,11.54A29.314,29.314,0,0,1,593.184,1175.094Z" fill="url(#linear-gradient-8)"/>
+      <circle id="Ellipse_199-2" data-name="Ellipse 199" cx="1.841" cy="1.841" r="1.841" transform="translate(569.462 1142.375) rotate(180)" fill="#2f235a"/>
+      <circle id="Ellipse_200-2" data-name="Ellipse 200" cx="1.841" cy="1.841" r="1.841" transform="translate(527.204 1089.578) rotate(180)" fill="#fe9076"/>
+      <circle id="Ellipse_201-2" data-name="Ellipse 201" cx="1.841" cy="1.841" r="1.841" transform="translate(619.824 1135.065) rotate(180)" fill="#ffa400"/>
+      <circle id="Ellipse_202-2" data-name="Ellipse 202" cx="1.841" cy="1.841" r="1.841" transform="translate(537.298 1170.776) rotate(180)" fill="#23bb86"/>
+      <path id="Vector_95-2" data-name="Vector 95" d="M0,21.04C4.163,15.322,15.89,3.109,29.494,0" transform="translate(529.875 1059.011)" fill="none" stroke="#fe9076" stroke-linecap="round" stroke-width="1.603"/>
+      <path id="Vector_96-2" data-name="Vector 96" d="M0,21.04C4.163,15.322,15.89,3.109,29.494,0" transform="translate(634.443 1109.127) rotate(24.397)" fill="none" stroke="#ffa400" stroke-linecap="round" stroke-width="1.603"/>
+      <path id="Vector_97-2" data-name="Vector 97" d="M0,0A83.371,83.371,0,0,1,15.858,20.031" transform="translate(541.776 1174.283)" fill="none" stroke="#23bb86" stroke-linecap="round" stroke-width="1.603"/>
+    </g>
+    <g id="Group_1293" data-name="Group 1293">
+      <path id="Vector" d="M6.314,1.7C4.226-1.528,0,.229,0,3.743c0,2.638,5.794,6.765,6.314,7.3.524-.537,6.03-4.664,6.03-7.3,0-3.487-3.938-5.271-6.03-2.045Z" transform="translate(446.635 1014.853)" fill="#ffbcbc"/>
+      <g id="Ellipse_232" data-name="Ellipse 232" transform="translate(438.682 1006.251)" fill="none" stroke="#f7f7f7" stroke-width="0.65">
+        <circle cx="14.125" cy="14.125" r="14.125" stroke="none"/>
+        <circle cx="14.125" cy="14.125" r="13.8" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_1299" data-name="Group 1299">
+      <path id="Vector-2" data-name="Vector" d="M5.588,1.5C3.74-1.352,0,.2,0,3.312,0,5.647,5.128,9.3,5.588,9.775c.464-.475,5.337-4.128,5.337-6.463,0-3.086-3.485-4.665-5.337-1.81Z" transform="translate(397.838 995.815)" fill="#ffbcbc"/>
+      <g id="Ellipse_232-2" data-name="Ellipse 232" transform="translate(390.799 988.202)" fill="none" stroke="#f7f7f7" stroke-width="0.575">
+        <circle cx="12.501" cy="12.501" r="12.501" stroke="none"/>
+        <circle cx="12.501" cy="12.501" r="12.213" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_1297" data-name="Group 1297">
+      <path id="Vector-3" data-name="Vector" d="M3.822,1.027A2.061,2.061,0,0,0,0,2.265c0,1.6,3.507,4.1,3.822,4.42.317-.325,3.65-2.823,3.65-4.42,0-2.111-2.384-3.19-3.65-1.238Z" transform="translate(432.286 975.315)" fill="#ffbcbc"/>
+      <g id="Ellipse_232-3" data-name="Ellipse 232" transform="translate(427.473 970.108)" fill="none" stroke="#f7f7f7" stroke-width="0.393">
+        <circle cx="8.55" cy="8.55" r="8.55" stroke="none"/>
+        <circle cx="8.55" cy="8.55" r="8.353" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_1298" data-name="Group 1298">
+      <path id="Vector-4" data-name="Vector" d="M3.127.841A1.686,1.686,0,0,0,0,1.854C0,3.16,2.87,5.2,3.127,5.47c.26-.266,2.986-2.31,2.986-3.617,0-1.727-1.95-2.61-2.986-1.013Z" transform="translate(375.252 964.638)" fill="#ffbcbc"/>
+      <g id="Ellipse_232-4" data-name="Ellipse 232" transform="translate(371.313 960.377)" fill="none" stroke="#f7f7f7" stroke-width="0.322">
+        <circle cx="6.996" cy="6.996" r="6.996" stroke="none"/>
+        <circle cx="6.996" cy="6.996" r="6.835" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_1294" data-name="Group 1294">
+      <path id="Vector-5" data-name="Vector" d="M6.828,1.835C4.57-1.652,0,.248,0,4.047c0,2.853,6.265,7.316,6.828,7.9.567-.58,6.52-5.043,6.52-7.9,0-3.771-4.258-5.7-6.52-2.212Z" transform="translate(366.464 1038.529)" fill="#ffbcbc"/>
+      <g id="Ellipse_232-5" data-name="Ellipse 232" transform="translate(357.864 1029.227)" fill="none" stroke="#f7f7f7" stroke-width="0.703">
+        <circle cx="15.274" cy="15.274" r="15.274" stroke="none"/>
+        <circle cx="15.274" cy="15.274" r="14.923" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

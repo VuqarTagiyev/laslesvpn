@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="done" transform="translate(-864.121 -1264.549)">
+    <g id="bx:bxs-check-circle" transform="translate(862.121 1262.549)">
+      <path id="Vector" d="M10,0A10,10,0,1,0,20,10,10.011,10.011,0,0,0,10,0ZM8,14.413l-3.713-3.7L5.7,9.292l2.3,2.3,5.294-5.294,1.414,1.414Z" transform="translate(2 2)" fill="#2fab73"/>
+    </g>
+  </g>
+</svg>

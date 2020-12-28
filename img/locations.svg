@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+  <g id="locations" transform="translate(-628.5 -737.049)">
+    <rect id="Rectangle_270" data-name="Rectangle 270" width="55" height="55" rx="27.5" transform="translate(628.5 737.049)" fill="#ffecec"/>
+    <g id="Group_1215" data-name="Group 1215">
+      <g id="gridicons:location" transform="translate(644 752.549)">
+        <path id="Vector" d="M14,7A7,7,0,1,0,1.105,10.765H1.1C3.457,14.46,7,20,7,20l5.9-9.235H12.9A6.98,6.98,0,0,0,14,7ZM7,10a3,3,0,1,1,2.121-.879A3,3,0,0,1,7,10Z" transform="translate(5 2)" fill="#f53838"/>
+      </g>
+    </g>
+  </g>
+</svg>

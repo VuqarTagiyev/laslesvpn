@@ -1,0 +1,48 @@
+
+/* header */
+
+header{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* left side */
+
+.logo{
+    width: 14.9rem;
+}
+
+/* center side */
+
+.header__menu{
+    list-style-type: none;
+    display: flex;
+}
+
+.menu__item{
+    padding:0 2rem;
+    font-size: 1.6rem;
+}
+
+.menu__item a{
+    color: var(--color3);
+}
+
+/* right side */
+
+.right-side__button{
+    padding: 1rem 3rem;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+.header__sign-in--button{
+    color : var(--color2);
+}
+.header__sign-up--button{
+    color: var(--main-color);
+    border: 1px solid var(--main-color);
+    border-radius: 40px;
+}

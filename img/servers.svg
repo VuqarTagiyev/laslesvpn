@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+  <g id="servers" transform="translate(-1037 -737.049)">
+    <rect id="Rectangle_272" data-name="Rectangle 272" width="55" height="55" rx="27.5" transform="translate(1037 737.049)" fill="#ffecec"/>
+    <g id="Group_1217" data-name="Group 1217">
+      <g id="bx:bxs-server" transform="translate(1052.5 752.549)">
+        <path id="Vector" d="M0,10H2v2H0Zm4,0H6v2H4ZM0,0H2V2H0ZM4,0H6V2H4Z" transform="translate(13 6)" fill="none"/>
+        <path id="Vector-2" data-name="Vector" d="M18,0H2A2,2,0,0,0,0,2V6A2,2,0,0,0,2,8H18a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2ZM13,5H11V3h2Zm4,0H15V3h2Zm1,5H2a2,2,0,0,0-2,2v4a2,2,0,0,0,2,2H18a2,2,0,0,0,2-2V12a2,2,0,0,0-2-2Zm-5,5H11V13h2Zm4,0H15V13h2Z" transform="translate(2 3)" fill="#f53838"/>
+      </g>
+    </g>
+  </g>
+</svg>
